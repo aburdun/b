@@ -1,0 +1,7 @@
+memo = "fc5afa2f6a9c2148e7c5053e8ee59da5b364a831311c688262ba69827d525a8d"
+
+[[projects]]
+  name = "github.com/aburdun/a"
+  packages = ["."]
+  revision = ""
+  version = "4.0"
