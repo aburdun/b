@@ -1,5 +1,11 @@
 package b
 
-func GetVersion() string {
-	return "b v1"
+import (
+        "fmt"
+        "github.com/aburdun/a"
+)
+
+func PrintMe() {
+        fmt.Println("I am b v3 and am using a " + a.GetVersion())
 }
+
