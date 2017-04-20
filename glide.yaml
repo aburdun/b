@@ -1,4 +1,3 @@
 package: github.com/aburdun/b
 import:
 - package: github.com/aburdun/c
-  version: ^22
