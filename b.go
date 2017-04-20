@@ -1,11 +1,8 @@
 package b
 
-import (
-        "fmt"
-        "github.com/aburdun/a"
-)
+import  "github.com/aburdun/c"
 
 func PrintMe() {
-        fmt.Println("I am b v3 and am using a v4? " + a.GetVersion())
+        c.CTalk()
 }
 

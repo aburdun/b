@@ -1,0 +1,6 @@
+hash: 17ffa5b5f6eb04786e8cf2241d68291fb4f98b48c60c1b9a0fc1d680fc5d61dc
+updated: 2017-04-20T13:30:11.912602012+03:00
+imports:
+- name: github.com/aburdun/c
+  version: 678d8f93b43f7cf61c00a31c4b3d061b4e576590
+testImports: []
